@@ -5,7 +5,7 @@ date:   2015-02-23
 thumbnail: /img/blog/open-data-day.jpg
 ---
 
-Code for Ghana on February 21, 2015 organised the Open Data Day Hackathon at the Mobile Web Ghana lab. Open Data Day is an international event where citizens gather to learn and share knowledge about Open Data and build Apps using Open Data. It was an all-day event that saw lots of people from various backgrounds participating: journalists, students, coders and non-coders alike.
+Code  for Ghana on February 21, 2015 organised the Open Data Day Hackathon at the Mobile Web Ghana lab. Open Data Day is an international event where citizens gather to learn and share knowledge about Open Data and build Apps using Open Data. It was an all-day event that saw lots of people from various backgrounds participating: journalists, students, coders and non-coders alike.
 
 
 The theme of the event was "Open Data for Strategic Development: Health and Education in focus". Activities for the event included: talk sessions from keynote speakers, hackathon and networking.
